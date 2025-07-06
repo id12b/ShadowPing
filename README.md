@@ -1,0 +1,1 @@
+ShadowPing is a modern Python-powered network pinger with a visual interface, live latency tracking, and full dark mode. No license, no restrictions use it however you want. Works with domains, IPs, DNS, you name it. Just click and ping. 
